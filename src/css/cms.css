@@ -1,0 +1,8 @@
+@import "netlify-cms/dist/cms.css";
+
+.color-control {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  background: #dfdfe3;
+}

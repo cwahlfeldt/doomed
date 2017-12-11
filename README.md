@@ -15,4 +15,4 @@ Doomed will feature content about heavy fucking metal, diy punk/hardcore, other 
 
 - [ ] Flexible content extension?
 - [ ] purchase doomed.world
-- [ ] purchase doomed.com
+- [ ] purchase doomd.com

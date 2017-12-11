@@ -87,3 +87,8 @@ body {
   width: 33px;
   background-color: var(--text-color);
 }
+
+#social-icons {
+  right: 64px;
+  top: 17px;
+}

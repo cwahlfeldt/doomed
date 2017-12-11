@@ -4,15 +4,15 @@ Doomed will feature content about heavy fucking metal, diy punk/hardcore, other 
 
 ### Get Done List!
 
-- [] Design (getting there)
-- [] Init Content
-- [] Writers
-- [] Post Type
-- [] Page Type
-- [] Contact Form
+- [ ] Design (getting there)
+- [ ] Init Content
+- [ ] Writers
+- [ ] Post Type
+- [ ] Page Type
+- [ ] Contact Form
 
 ### MAYBE Get Done List!
 
-- [] Flexible content extension?
-- [] purchase doomed.world
-- [] purchase doomed.com
+- [ ] Flexible content extension?
+- [ ] purchase doomed.world
+- [ ] purchase doomed.com

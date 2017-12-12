@@ -1,11 +1,17 @@
 <header class="top-nav fixed top-0 w-100 pv2 pv2-ns">
   <nav class="flex flex-row f1 justify-center fw6 ttu tracked-mega">
 
+<!--
     <button class="hamburger white hamburger--emphatic absolute left-0" type="button">
       <span class="hamburger-box">
         <span class="hamburger-inner"></span>
       </span>
     </button>
+-->
+
+    <a id="burger" class="absolute left-0" href="#">
+      {{ partial "svg/hamburger.html" . }}
+    </a>
 
     <a class="link dim pt2" href="#" title="Store">Doomed</a>
 
@@ -13,6 +19,9 @@
       {{ partial "svg/facebook" . }}
       {{ partial "svg/instagram" . }}
       {{ partial "svg/twitter" . }}
+      {{ partial "svg/twitch" . }}
+      {{ partial "svg/youtube" . }}
+      {{ partial "svg/github" . }}
     </div>
 
   </nav>

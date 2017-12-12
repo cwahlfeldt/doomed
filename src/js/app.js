@@ -18,16 +18,28 @@ $(document).on('scroll', function() {
       marginTop: -13,
       marginRight: 'auto',
     });
+
     $('.hamburger').css({
       top: -9,
     });
+
+    $('#social-icons').css({top: 0});
+    $('#social-icons svg').css({width: 20});
+
+    $('#burger').css({top: 4});
+    $('#burger svg').css({width: 22});
   } else {
     $('.top-nav nav').css({
-      fontSize: '2.5rem',
-      marginTop: 0,
+      fontSize: '',
+      marginTop: '',
     });
-    $('.hamburger').css({
-      top: 8,
-    });
+
+    $('.hamburger').css({top: ''});
+
+    $('#social-icons').css({top: ''});
+    $('#social-icons svg').css({width: ''});
+
+    $('#burger').css({top: ''});
+    $('#burger svg').css({width: ''});
   }
 });

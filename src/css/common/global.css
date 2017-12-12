@@ -2,7 +2,8 @@
   --fixed-top-border-width: 78px;
   --fixed-border-width: 30px;
   --fixed-border-color: white;
-  --text-color: black;
+  --text-color: #333;
+  --transition-time: 0.1s;
 }
 
 @media (max-width: 768px) {
@@ -56,8 +57,9 @@ body {
 .top-nav nav {
   font-family: "sabbath-black",serif;
   font-size: 2.5rem;
-  transition: 0.15s;
+  transition: var(--transition-time);
   background-color: var(--fixed-border-color);
+  padding-right: var(--fixed-border-width);
 }
 
 .top-nav a {
@@ -69,7 +71,7 @@ body {
   left: 0;
   padding: 0;
   top: 8px;
-  transition: 0.2s;
+  transition: var(--transition-time);
 }
 
 .hamburger-box {
@@ -91,4 +93,18 @@ body {
 #social-icons {
   right: 64px;
   top: 17px;
+}
+
+svg {
+  transition: var(--transition-time);
+  fill: var(--text-color) !important;
+}
+
+#burger {
+  top: 15px;
+}
+
+#burger svg {
+  width: 32px;
+  fill: var(--text-color) !important;
 }

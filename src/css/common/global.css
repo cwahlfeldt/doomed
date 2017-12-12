@@ -108,3 +108,10 @@ svg {
   width: 32px;
   fill: var(--text-color) !important;
 }
+
+@media (max-width: 768px) {
+  #social-icons,
+  #burger {
+    display: none;
+  }
+}

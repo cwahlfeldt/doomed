@@ -48,6 +48,7 @@
     "postcss-loader": "^0.9.1",
     "postcss-uncss": "^0.14.0",
     "react": "15.6.1",
+    "react-color": "^2.13.8",
     "uncss": "^0.14.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",

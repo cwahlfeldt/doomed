@@ -1,8 +1,8 @@
 :root {
   --fixed-top-border-width: 78px;
   --fixed-border-width: 30px;
-  --fixed-border-color: white;
-  --text-color: #333;
+  --fixed-border-color: #291b2c;
+  --text-color: #cca969;
   --transition-time: 0.1s;
 }
 

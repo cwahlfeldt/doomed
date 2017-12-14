@@ -1,5 +1,6 @@
 import React from "react";
 import CMS from "netlify-cms";
+import { SketchPicker } from 'react-color';
 
 import PostPreview from "./cms-preview-templates/post";
 
@@ -18,6 +19,17 @@ class ColorControl extends React.Component {
   }
 }
 
+class SketchControl extends React.Component {
+  render() {
+    return (
+      <SketchPicker
+        value={ this.props.value }
+      />
+    );
+  }
+}
+
 CMS.registerPreviewStyle("/css/main.css");
 CMS.registerPreviewTemplate("posts", PostPreview);
 CMS.registerWidget("color", ColorControl);
+CMS.registerWidget("sketch", SketchControl);

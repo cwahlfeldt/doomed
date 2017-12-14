@@ -13,3 +13,4 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Content", name: "body", widget: "markdown"}
       - {label: "Color", name: "color", widget: "color"}
+      - {label: "Sketch", name: "sketch", widget: "sketch"}

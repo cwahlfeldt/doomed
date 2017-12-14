@@ -23,6 +23,7 @@ body:after {
   padding-bottom: var(--fixed-border-width);
 }
 
+
 body:before {
   top: 0;
 }

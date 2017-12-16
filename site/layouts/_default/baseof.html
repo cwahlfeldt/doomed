@@ -6,7 +6,11 @@
 
   <body>
 
-    <main class="content relative">
+    <section id="center-shadow" class="flex justify-center items-center fixed">
+      <div class="shadow-box"></div>
+    </section>
+
+    <main class="main-content content relative">
       {{ block "content" . }}
       {{ end }}
     </main>

@@ -127,6 +127,7 @@ svg {
   z-index: 99999;
 }
 
+/*
 .shadow-box {
   width: calc(100% - var(--shadow-width));
   height: calc(100% - var(--shadow-width));
@@ -135,3 +136,4 @@ svg {
   margin-top: 96px;
   z-index: 9999;
 }
+*/

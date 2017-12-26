@@ -1,2 +1,2 @@
 import './common/global';
-//import './animation/burger';
+import './animation/burger';

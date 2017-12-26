@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
     {{ partial "head" . }}
   </head>
 
   <body>
-
-    <section id="center-shadow" class="flex justify-center items-center fixed">
-      <div class="shadow-box"></div>
-    </section>
 
     <main class="main-content content relative">
       {{ block "content" . }}
@@ -19,5 +16,12 @@
 
     {{ partial "scripts" . }}
 
+    <section id="loader"></section>
+
+    <section id="center-shadow" class="flex justify-center items-center fixed">
+      <div class="shadow-box"></div>
+    </section>
+
   </body>
+
 </html>

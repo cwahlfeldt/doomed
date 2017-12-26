@@ -51,6 +51,7 @@
     "postcss-uncss": "^0.14.0",
     "react": "15.6.1",
     "react-color": "^2.13.8",
+    "scrollreveal": "^3.3.6",
     "uncss": "^0.14.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
@@ -60,6 +61,7 @@
     "gulp-inject": "^4.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
+    "json-loader": "^0.5.7",
     "svg-sprite-loader": "^0.1.2",
     "tachyons": "^4.9.0"
   }

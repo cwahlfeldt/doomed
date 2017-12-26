@@ -1,3 +1,17 @@
+import ScrollReveal from 'scrollreveal';
+
+$(window).on("load", () => {
+  $('#blog').css({visibility: 'show'});
+
+  const sr = ScrollReveal({
+    reset: true,
+    distance: '1px',
+    duration: 200,
+  });
+
+  sr.reveal('#blog div', 50);
+});
+
 // JS Goes here - ES6 supported
 if (window.netlifyIdentity) {
   window.netlifyIdentity.on("init", (user) => {
@@ -12,6 +26,7 @@ if (window.netlifyIdentity) {
 $(document).on('scroll', function() {
   let documentScrollTop = $(this).scrollTop();
 
+/*
   if (documentScrollTop > 10) {
     $('.top-nav nav').css({
       fontSize: '1.4rem',
@@ -47,5 +62,6 @@ $(document).on('scroll', function() {
   if (documentScrollTop < 10) {
     $('.shadow-box').css({marginTop: 96});
   }
+*/
 
 });

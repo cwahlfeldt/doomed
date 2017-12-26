@@ -9,6 +9,10 @@ export default {
         loader: "file?name=/[hash].[ext]"
       },
       {
+        test: /\.json$/,
+        loader: 'json-loader'
+      },
+      {
         loader: "babel",
         test: /\.js?$/,
         exclude: /node_modules/,

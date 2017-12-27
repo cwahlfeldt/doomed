@@ -1,2 +1,6 @@
+// global
 import './common/global';
-import './animation/burger';
+
+// aniamtion
+import './animation';
+//import './animation/loader';

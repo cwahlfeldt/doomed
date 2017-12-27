@@ -77,7 +77,7 @@
   height: var(--fixed-border-width);
   font-weight: 100;
   width: 100vw;
-  letter-spacing: 5px;
+  letter-spacing: 1px;
 }
 
 .hamburger {

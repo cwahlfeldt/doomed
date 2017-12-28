@@ -11,6 +11,5 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title", name: "image", widget: "image"}
       - {label: "Content", name: "body", widget: "markdown"}
-      - {label: "Color", name: "color", widget: "color"}
-      - {label: "Sketch", name: "sketch", widget: "sketch"}

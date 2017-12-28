@@ -3,13 +3,13 @@
 
   {{ range $index, $element := (where .Site.Pages "Section" "posts") }}
     <!-- LAYOUT 1 [if index <= 5] -->
-    {{ if le $index 0 }}
+    {{ if eq $index 0 }}
       <div class="fl w-50">
         <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
           <span role="img" aria-label="Seat at Table Solange" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
         </a>
       </div>
-    {{ else if le $index 4 }}
+    {{ else if and (le $index 4) (gt $index 0) }}
       <div class="fl w-50 w-25-ns">
         <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
           <span role="img" aria-label="Beyoncé" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
@@ -20,60 +20,88 @@
 
 
     <!-- LAYOUT 2 [if index >= 6] -->
-    {{ if and (ge $index 5) (le $index 8) }}
-    <div class="fl w-50 w-25-ns">
-      <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
-        <span role="img" aria-label="Untitled Unmastered - Kendrick Lamar" style="background-image:url(https://images.reverb.com/image/upload/s--RcQyqHlX--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1490918444/kanpamjz8i3qtcxkefum.jpg);" class="bg-center cover aspect-ratio--object"></span>
-      </a>
-    </div>
+    {{ if and (ge $index 5) (lt $index 9) }}
+      <div class="fl w-50 w-25-ns">
+        <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
+          <span role="img" aria-label="Untitled Unmastered - Kendrick Lamar" style="background-image:url(https://images.reverb.com/image/upload/s--RcQyqHlX--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1490918444/kanpamjz8i3qtcxkefum.jpg);" class="bg-center cover aspect-ratio--object"></span>
+        </a>
+      </div>
     {{ end }}
     <!-- // LAYOUT 2 // -->
 
-
-    <!-- LAYOUT 3 [if index >= 8] -->
-    <div class="fl w-100 w-50-m w-25-ns">
-      <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
-        <span role="img" aria-label="32 Levels Clams Casino" style="background-image:url(https://media2.giphy.com/media/3oFzmmBNKO5juZaOKk/giphy.gif);" class="bg-center cover aspect-ratio--object"></span>
-      </a>
-      <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
-        <span role="img" aria-label="Danny Brown Atrocity Exhibition Exclusive" style="background-image:url(https://mrmrs.github.io/photos/dannybrown.jpg);" class="bg-center cover aspect-ratio--object"></span>
-      </a>
-    </div>
-    <div class="fl w-100 w-50-m w-25-l">
-      <div class="fl w-100">
-        <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="C">
-          <span role="img" aria-label="Human Energy - Machinedrum" style="background-image:url(https://media.giphy.com/media/avE6EOveLIaKA/giphy.gif);" class="bg-center cover aspect-ratio--object"></span>
+    <!-- LAYOUT 1 [if index <= 5] -->
+    {{ if eq $index 9 }}
+      <div class="fr w-50">
+        <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
+          <span role="img" aria-label="Seat at Table Solange" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
         </a>
       </div>
-      <div class="fl w-100">
-        <div class="fl w-50">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="D">
-            <span role="img" aria-label="Moodymann - DJ Kicks" style="background-image:url(https://mrmrs.github.io/photos/moodyman.jpg);" class="bg-center cover aspect-ratio--object"></span>
-          </a>
-        </div>
-        <div class="fl w-50">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="E">
-            <span role="img" aria-label="Stranger Things Netflix Original Soundtrack" style="background-image:url(https://mrmrs.github.io/photos/strangerthings.jpg);" class="bg-center cover aspect-ratio--object"></span>
-          </a>
-        </div>
-        <div class="fl w-50">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="F">
-            <span role="img" aria-label="How Be Human Being LP" style="background-image:url(https://mrmrs.github.io/photos/glassanimals.jpg);" class="bg-center cover aspect-ratio--object"></span>
-          </a>
-        </div>
-        <div class="fl w-50">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="G">
-            <span role="img" aria-label="22 Million - Bon Iver" style="background-image:url(https://mrmrs.github.io/photos/boniver.jpg);" class="bg-center cover aspect-ratio--object"></span>
+    {{ else if and (gt $index 9) (le $index 13) }}
+      <div class="fr w-50 w-25-ns">
+        <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
+          <span role="img" aria-label="Beyoncé" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
+        </a>
+      </div>
+    {{ end }}
+    <!-- // LAYOUT 1 // -->
+
+    <!-- LAYOUT 1 [if index <= 5]
+    {{ if and (ge $index 9) (lt $index 13) }}
+      <div class="fl w-50 w-25-ns">
+        <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
+          <span role="img" aria-label="Beyoncé" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
+        </a>
+      </div>
+    {{ else if eq $index 13 }}
+      <div class="fl w-50">
+        <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
+          <span role="img" aria-label="Seat at Table Solange" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
+        </a>
+      </div>
+    {{ end }}
+    // LAYOUT 1 // -->
+
+
+    <!-- LAYOUT 3 [if index >= 8]
+    {{ if and (ge $index 9) (lt $index 11) }}
+    <div class="fl w-100 w-50-m w-25-ns">
+        <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
+          <span role="img" aria-label="32 Levels Clams Casino" style="background-image:url(https://media2.giphy.com/media/3oFzmmBNKO5juZaOKk/giphy.gif);" class="bg-center cover aspect-ratio--object"></span>
+        </a>
+    </div>
+    {{ else if and (gt $index 10) (le $index 15) }}
+      {{ if eq $index 11 }}
+      <div class="fl w-100 w-50-m w-25-l">
+        <div class="fl w-100">
+          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="C">
+            <span role="img" aria-label="Human Energy - Machinedrum" style="background-image:url(https://media.giphy.com/media/avE6EOveLIaKA/giphy.gif);" class="bg-center cover aspect-ratio--object"></span>
           </a>
         </div>
       </div>
-    </div>
-    <div class="fl w-100 w-50-l">
-      <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="H">
-        <span role="img" aria-label="Malibu -  Anderson Paak" style="background-image:url(https://1.bp.blogspot.com/-JbRWh2h5plY/WVNBgdLkg8I/AAAAAAAAC5M/uPcrApPz54QA7Vpd8t9QHmZQLp89o1s_wCLcBGAs/s1600/black-sabbath-sabotage-lp-back.jpg);" class="bg-center cover aspect-ratio--object"></span>
-      </a>
-    </div>
-    <!-- // LAYOUT 3 // -->
+      {{ end }}
+      {{ if and (gt $index 11) (le $index 15) }}
+      <div class="fl w-100 w-50-m w-25-l">
+        <div class="fl w-100">
+        {{ if and (gt $index 11) (le $index 15) }}
+          <div class="fl w-50">
+            <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="D">
+              <span role="img" aria-label="Moodymann - DJ Kicks" style="background-image:url(https://mrmrs.github.io/photos/moodyman.jpg);" class="bg-center cover aspect-ratio--object"></span>
+            </a>
+          </div>
+        {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    {{ end }}
+
+    {{ if eq $index 16 }}
+      <div class="fl w-100 w-50-l">
+        <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="H">
+          <span role="img" aria-label="Malibu -  Anderson Paak" style="background-image:url(https://1.bp.blogspot.com/-JbRWh2h5plY/WVNBgdLkg8I/AAAAAAAAC5M/uPcrApPz54QA7Vpd8t9QHmZQLp89o1s_wCLcBGAs/s1600/black-sabbath-sabotage-lp-back.jpg);" class="bg-center cover aspect-ratio--object"></span>
+        </a>
+      </div>
+    {{ end }}
+    // LAYOUT 3  // -->
 
   {{ end }}
 

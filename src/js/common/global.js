@@ -27,7 +27,22 @@ $(document).on('scroll', function() {
   let documentScrollTop = $(this).scrollTop();
 
 /*
-  if (documentScrollTop > 10) {
+  if (documentScrollTop > 0) {
+    $('main.content').addClass('shrink-nav');
+    $('.top-nav nav').css({height: 30});
+
+    document.documentElement.style.setProperty('--fixed-top-border-width', '30px');
+  } else {
+    $('main.content').removeClass('shrink-nav');
+    $('.top-nav nav').css({height: 70});
+    $('.brand').css({
+      fontSize: '',
+      marginTop: '',
+    });
+  }
+*/
+
+/*
     $('.top-nav nav').css({
       fontSize: '1.4rem',
       marginTop: -13,

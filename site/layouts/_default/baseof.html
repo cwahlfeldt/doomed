@@ -6,18 +6,18 @@
   </head>
 
   <body>
+    {{ partial "header" . }}
 
     <main class="main-content content relative">
       {{ block "content" . }}
       {{ end }}
     </main>
 
-    {{ partial "header" . }}
+    {{ partial "modal-menu" . }}
+
+    <section id="loading"></section>
 
     {{ partial "scripts" . }}
-
-    <div id="loading"></div>
-
   </body>
 
 </html>

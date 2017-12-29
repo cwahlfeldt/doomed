@@ -1,6 +1,6 @@
 ---
 title: Post 3
 date: '2017-12-12'
-image: /uploads/razor.jpg
+image: /uploads/PassionateTidyEyra.gif
 ---
 Conetnet bitch

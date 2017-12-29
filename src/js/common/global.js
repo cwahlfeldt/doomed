@@ -23,6 +23,14 @@ if (window.netlifyIdentity) {
   });
 }
 
+/*
+$('#burger').toggle(function() {
+  $('#modal-menu').css({visibility: 'visible'});
+}, function() {
+  $('#modal-menu').css({visibility: 'hidden'});
+});
+*/
+
 $(document).on('scroll', function() {
   let documentScrollTop = $(this).scrollTop();
 

@@ -22,14 +22,24 @@ const end = burgerAnimation.totalFrames;
 
 console.log(end)
 
-burgerAnimation.setSpeed(3);
+burgerAnimation.setSpeed(5);
 
-$('#burger').on('click', function() {
+$('#burger').on('click', function(e) {
+  e.preventDefault();
+
   if (completed) {
+    $('#modal-menu').css({
+      opacity: 0,
+      visibility: 'hidden',
+    });
     burgerAnimation.playSegments([middle, end], true);
     completed = false;
   } else {
-    burgerAnimation.playSegments([10, middle], true);
+    $('#modal-menu').css({
+      opacity: 1,
+      visibility: 'visible',
+    });
+    burgerAnimation.playSegments([5, middle], true);
   }
 });
 

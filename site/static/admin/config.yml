@@ -10,6 +10,7 @@ collections:
     folder: "site/content/posts"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Title", name: "title", widget: "string", format: "MMM Do YY"}
+      - {label: "Post Date", name: "date", widget: "Date"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Content", name: "body", widget: "markdown"}

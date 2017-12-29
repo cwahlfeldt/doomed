@@ -1,5 +1,5 @@
 ---
-title: Post 4
+title: Post 6
 date: '2017-12-25'
 image: /uploads/razor.jpg
 ---

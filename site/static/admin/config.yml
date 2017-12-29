@@ -11,6 +11,6 @@ collections:
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string", format: "MMM Do YY"}
-      - {label: "Post Date", name: "date", widget: "Date"}
+      - {label: "Post Date", name: "date", widget: "date"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Content", name: "body", widget: "markdown"}

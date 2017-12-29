@@ -9,6 +9,7 @@ collections:
     name: "posts"
     folder: "site/content/posts"
     create: true
+    sort: "date:desc"
     fields:
       - {label: "Title", name: "title", widget: "string", format: "MMM Do YY"}
       - {label: "Post Date", name: "date", widget: "date"}

@@ -1,7 +1,7 @@
 <section id="blog" class="cf">
 
 
-  {{ range $index, $element := (where .Site.Pages "Section" "posts") }}
+  {{ range $index, $element := (where .Site.Pages.ByDate "Section" "posts") }}
 
 
     <!-- LAYOUT 1 [if index <= 5] -->

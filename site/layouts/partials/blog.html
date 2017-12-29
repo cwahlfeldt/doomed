@@ -25,7 +25,7 @@
     {{ if and (ge $index 5) (lt $index 9) }}
       <div class="fl w-50 w-25-ns">
         <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
-          <span role="img" aria-label="Untitled Unmastered - Kendrick Lamar" style="background-image:url(https://images.reverb.com/image/upload/s--RcQyqHlX--/a_exif,c_limit,e_unsharp_mask:80,f_auto,fl_progressive,g_south,h_620,q_90,w_620/v1490918444/kanpamjz8i3qtcxkefum.jpg);" class="bg-center cover aspect-ratio--object"></span>
+          <span role="img" aria-label="Untitled Unmastered - Kendrick Lamar" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
         </a>
       </div>
     {{ end }}

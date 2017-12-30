@@ -1,29 +1,11 @@
 <header class="top-nav fixed top-0 w-100 pv2 pv2-ns">
   <nav class="flex flex-row">
-
-<!--
-    <button class="hamburger white hamburger--emphatic absolute left-0" type="button">
-      <span class="hamburger-box">
-        <span class="hamburger-inner"></span>
-      </span>
-    </button>
--->
+    
+    {{ partial "social-links" . }}
 
     <a class="brand link dim ttu" href="#" title="Store">Doomed</a>
 
     <a id="burger" href="#"></a>
-
-<!--
-    <div id="social-icons" class="absolute">
-      {{ partial "svg/facebook" . }}
-      {{ partial "svg/instagram" . }}
-      {{ partial "svg/twitter" . }}
-
-      {{ partial "svg/twitch" . }}
-      {{ partial "svg/youtube" . }}
-      {{ partial "svg/github" . }}
-    </div>
--->
 
   </nav>
 </header>

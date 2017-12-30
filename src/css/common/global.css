@@ -65,6 +65,13 @@ body {
 
 #modal-menu {
   background: black;
+  padding-top: var(--fixed-top-border-width);
+  padding-bottom: var(--fixed-top-border-width);
+}
+
+.nav-link {
+  letter-spacing: 15px !important;
+  text-shadow: 4px 8px 4px rgba(0,0,0,1);
 }
 
 .content {
@@ -98,7 +105,14 @@ body {
   background-color: var(--fixed-border-color);
   height: var(--fixed-top-border-width);
   align-items: center;
+  justify-content: center;
   padding: 0 var(--fixed-border-width);
+}
+
+@media screen and (max-width: 768px) {
+  .top-nav nav {
+    justify-content: flex-start;
+  }
 }
 
 .top-nav,
@@ -112,12 +126,12 @@ body {
   line-height: var(--fixed-border-width);
   height: var(--fixed-border-width);
   font-weight: 100;
-  width: 100vw;
+  /* width: 100vw; */
   letter-spacing: 1px;
 }
 
 .brand {
-  max-width: 250px;
+  /* max-width: 250px; */
 }
 
 .hamburger {
@@ -145,8 +159,23 @@ body {
 }
 
 #social-icons {
-  right: 64px;
+  left: var(--fixed-border-width);
   top: 17px;
+}
+
+@media screen and (max-width: 768px) {
+  #social-icons {
+    display: none;
+  }
+}
+
+#social-icons svg {
+  max-width: 25px;
+  margin-right: 5px;
+}
+
+a {
+  text-decoration: none;
 }
 
 svg {
@@ -182,14 +211,3 @@ svg {
   width: 100vw;
   z-index: 99999;
 }
-
-/*
-.shadow-box {
-  width: calc(100% - var(--shadow-width));
-  height: calc(100% - var(--shadow-width));
-  box-shadow: inset 0 0 10px #000000;
-  transition: var(--transition-time);
-  margin-top: 96px;
-  z-index: 9999;
-}
-*/

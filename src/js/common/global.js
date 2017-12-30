@@ -10,6 +10,17 @@ $(window).on("load", () => {
   });
 
   sr.reveal('#blog div', 50);
+
+  $(".col-3 input").val("");
+
+  $(".input-effect input").on('focusout', function(){
+    console.log('wtf mate');
+    if($(this).val() != ""){
+      $(this).addClass("has-content");
+    }else{
+      $(this).removeClass("has-content");
+    }
+  })
 });
 
 // JS Goes here - ES6 supported

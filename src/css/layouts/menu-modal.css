@@ -41,7 +41,7 @@
   font-size: 7vh;
   padding: 10px;
   text-decoration: none;
-  color: #fff;
+  color: var(--text-color);
   text-transform: uppercase;
   display: inline-block;
   text-shadow: 5px 3px 5px rgba(0,0,0,.9);

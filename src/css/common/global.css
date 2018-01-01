@@ -1,9 +1,10 @@
 :root {
   --fixed-top-border-width: 70px;
   --fixed-border-width: 35px;
-  --fixed-border-color: #FCFBE3;
   --burger-right: -110px;
-  --text-color: #333;
+  --fixed-border-color: #111;
+  --text-color: #FF4136;
+  --blog-bg-color: #fff;
   --transition-time: 0.1s;
   --shadow-width: calc(var(--fixed-border-width) * 2);
   --gradient-bg: linear-gradient(to bottom, #fdbb2d, #22c1c3);
@@ -23,6 +24,13 @@
 body {
   background: var(--fixed-border-color);
 }
+
+/*
+.dim:focus,
+.dim:hover {
+  opacity: 0.3;
+}
+*/
 
 .main-content:before,
 .main-content:after,
@@ -82,8 +90,10 @@ body {
 }
 
 #blog {
-  /* background: #22c1c3; */
-  /* background: var(--gradient-bg); */
+  background: var(--text-color);
+}
+
+#blog .container {
   visibility: hidden;
 }
 
@@ -194,7 +204,10 @@ svg {
 
 #burger svg {
   width: 32px;
-  fill: var(--text-color) !important;
+}
+
+#burger svg path {
+  fill: var(--text-color);
 }
 /*
 

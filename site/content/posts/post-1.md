@@ -1,7 +1,7 @@
 ---
 title: Post 1
 date: '2017-12-10'
-image: /uploads/stella-sapiente.jpg
+image: /uploads/631733.jpg
 ---
 Aenean in tempor enim. Donec posuere metus vitae facilisis pharetra. Integer sed dui elit. Mauris vestibulum dapibus urna, in volutpat ipsum pharetra vel. Integer porta lectus nec interdum sodales. In commodo aliquet lectus et eleifend. :bowtie:
 

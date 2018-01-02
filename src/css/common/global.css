@@ -16,6 +16,9 @@
     --fixed-border-width: 0;
     --burger-right: -125px;
   }
+  .posts {
+    --fixed-border-width: 0;
+  }
   .brand {
     padding-left: 20px !important;
   }
@@ -25,6 +28,9 @@ body {
   background: var(--fixed-border-color);
 }
 
+p {
+  margin: 0;
+}
 /*
 .dim:focus,
 .dim:hover {
@@ -91,6 +97,13 @@ body {
 
 #blog {
   background: var(--text-color);
+}
+
+.single {
+  background: white;
+  height: calc(100vh - 105px);
+
+
 }
 
 #blog .container {

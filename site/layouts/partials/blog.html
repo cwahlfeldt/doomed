@@ -7,13 +7,13 @@
       <!-- LAYOUT 1 -->
       {{ if eq $index 0 }}
         <div class="fl w-50">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
+          <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
             <span role="img" aria-label="Seat at Table Solange" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
           </a>
         </div>
       {{ else if and (le $index 4) (gt $index 0) }}
         <div class="fl w-50 w-25-ns">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
+          <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
             <span role="img" aria-label="Beyoncé" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
           </a>
         </div>
@@ -24,7 +24,7 @@
       <!-- LAYOUT 2 -->
       {{ if and (ge $index 5) (lt $index 9) }}
         <div class="fl w-50 w-25-ns">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
+          <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
             <span role="img" aria-label="Untitled Unmastered - Kendrick Lamar" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
           </a>
         </div>
@@ -35,13 +35,13 @@
       <!-- LAYOUT 3  -->
       {{ if eq $index 9 }}
         <div class="fr w-50">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
+          <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
             <span role="img" aria-label="Seat at Table Solange" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
           </a>
         </div>
       {{ else if and (gt $index 9) (le $index 13) }}
         <div class="fr w-50 w-25-ns">
-          <a href="#" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
+          <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
             <span role="img" aria-label="Beyoncé" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
           </a>
         </div>

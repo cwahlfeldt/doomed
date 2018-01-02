@@ -1,6 +1,6 @@
 import lottie from 'lottie-web';
 import burgerData from './burger/burger.json';
-import loadingData from './loading/loading.json';
+import loadingData from './loading/loader-block.json';
 
 const burger = document.getElementById('burger');
 const loading = document.getElementById('loading');
@@ -12,6 +12,14 @@ const burgerAnimation = lottie.loadAnimation({
   loop: false,
   autoplay: false,
   animationData: burgerData,
+});
+
+const loadingAnimation = lottie.loadAnimation({
+  container: loading,
+  renderer: 'svg',
+  loop: false,
+  autoplay: false,
+  animationData: loadingData,
 });
 
 window.burger = burgerAnimation;

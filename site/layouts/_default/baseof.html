@@ -8,7 +8,7 @@
   <body>
     {{ partial "header" . }}
 
-    <main class="main-content content relative">
+    <main class="main-content content relative {{ .Type }}">
       {{ block "content" . }}
       {{ end }}
     </main>

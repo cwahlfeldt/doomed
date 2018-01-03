@@ -1,6 +1,7 @@
 import ScrollReveal from 'scrollreveal';
 
 $(window).on("load", () => {
+  $('#loading').css({opacity: 0});
   $('#blog .container').css({visibility: 'visible'});
 
   const sr = ScrollReveal({

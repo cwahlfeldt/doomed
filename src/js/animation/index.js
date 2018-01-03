@@ -17,8 +17,8 @@ const burgerAnimation = lottie.loadAnimation({
 const loadingAnimation = lottie.loadAnimation({
   container: loading,
   renderer: 'svg',
-  loop: false,
-  autoplay: false,
+  loop: true,
+  autoplay: true,
   animationData: loadingData,
 });
 

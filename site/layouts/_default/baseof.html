@@ -9,13 +9,12 @@
     {{ partial "header" . }}
 
     <main class="main-content content relative {{ .Type }}">
-      {{ block "content" . }}
-      {{ end }}
+      {{ block "content" . }}{{ end }}
     </main>
 
     {{ partial "modal-menu" . }}
 
-    <!-- <section id="loading"></section> -->
+    <section id="loading"></section>
 
     {{ partial "scripts" . }}
   </body>

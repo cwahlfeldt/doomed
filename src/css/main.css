@@ -9,8 +9,8 @@
 /* @import './common/variables.css'; */
 
 /* import tachyons first */
-@import 'tachyons/css/tachyons.css';
-@import 'hamburgers/dist/hamburgers.css';
+@import 'tachyons';
+@import 'hamburgers';
 
 /* imports */
 @import './common/global.css';

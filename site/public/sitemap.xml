@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/post-13/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-14/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-12/</loc>
+    <lastmod>2017-12-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-11/</loc>
+    <lastmod>2017-12-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-10/</loc>
+    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post_9/</loc>
+    <lastmod>2017-12-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post_8/</loc>
+    <lastmod>2017-12-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-7/</loc>
+    <lastmod>2017-12-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-6/</loc>
+    <lastmod>2017-12-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-5/</loc>
+    <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-4/</loc>
+    <lastmod>2017-12-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-3/</loc>
+    <lastmod>2017-12-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-2/</loc>
+    <lastmod>2017-12-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/post-1/</loc>
+    <lastmod>2017-12-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2017-12-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -9,7 +9,8 @@
     "build": "gulp build",
     "build-preview": "gulp build-preview",
     "start": "gulp server",
-    "lint": "eslint src"
+    "lint": "eslint src",
+    "p-build": "parcel build src/js/app.js"
   },
   "author": "",
   "license": "MIT",
@@ -44,6 +45,7 @@
     "jquery": "^3.2.1",
     "lottie-web": "^5.0.5",
     "netlify-cms": "^1.0.1",
+    "parcel-bundler": "^1.4.1",
     "postcss-css-variables": "^0.8.0",
     "postcss-cssnext": "^2.7.0",
     "postcss-import": "^8.1.2",
@@ -52,6 +54,7 @@
     "react": "15.6.1",
     "react-color": "^2.13.8",
     "scrollreveal": "^3.3.6",
+    "tachyons": "^4.9.1",
     "uncss": "^0.14.1",
     "url-loader": "^0.5.7",
     "webpack": "^1.13.1",
@@ -62,7 +65,7 @@
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",
     "json-loader": "^0.5.7",
-    "svg-sprite-loader": "^0.1.2",
-    "tachyons": "^4.9.0"
+    "postcss-easy-import": "^3.0.0",
+    "svg-sprite-loader": "^0.1.2"
   }
 }

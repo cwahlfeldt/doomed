@@ -1,3 +1,5 @@
+//import '../css/main.css';
+
 // global
 import './common/global';
 

@@ -4,15 +4,21 @@ Doomed will feature content about heavy fucking metal, diy punk/hardcore, other 
 
 ### Get Done List!
 
-- [ ] Design (getting there)
-- [ ] Init Content
-- [ ] Writers
-- [ ] Post Type
-- [ ] Page Type
-- [ ] Contact Form
+- [ ] Design Single Post
+- [ ] Taxonomy Menu System
+- [ ] Search System
+- [ ] Filter System
+- [ ] Marketing/SEO
+- [ ] Social Media
 
-### MAYBE Get Done List!
+### Content List and Ideas
 
-- [ ] Flexible content extension?
-- [ ] purchase doomed.world
-- [ ] purchase doomd.com
+- [ ] Top Metal Records 2017, Curt
+- [ ] Top Punk/HxC Records 2017, Curt
+- [ ] Horror Movie Reviews, Curt
+- [ ] DIY Pedal Config Ivan
+- [ ] Gear Reviews, Derrin
+- [ ] Gear Reviews, Derrin
+- [ ] Old Album Reviews, Derrin
+- [ ] Indie Game Reviews, Chris
+- [ ] Top Games 2017, Chris

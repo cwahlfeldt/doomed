@@ -5,10 +5,10 @@
     {{ partial "head" . }}
   </head>
 
-  <body>
+  <body class="{{ .Type }}">
     {{ partial "header" . }}
 
-    <main class="main-content content relative {{ .Type }}">
+    <main class="main-content content relative">
       {{ block "content" . }}{{ end }}
     </main>
 

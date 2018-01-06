@@ -1,4 +1,4 @@
-:root {
+html {
   --fixed-top-border-width: 70px;
   --fixed-border-width: 35px;
   --burger-right: -110px;
@@ -11,19 +11,17 @@
   --azo-sans: "sabbath-black", sans-serif;
 }
 
-.posts {
-  --fixed-border-color: #eee !important;
-  --text-color: #111 !important;
+html .posts {
+  --fixed-border-color: #eee;
+  --text-color: #111;
 }
 
 @media (max-width: 768px) {
-  :root {
+  body {
     --fixed-border-width: 0;
     --burger-right: -125px;
   }
-  .posts {
-    --fixed-border-width: 0;
-  }
+
   .brand {
     padding-left: 20px !important;
   }
@@ -31,6 +29,10 @@
 
 body {
   background: var(--fixed-border-color);
+}
+
+body.posts {
+  background-color: #eee;
 }
 
 p {
@@ -57,6 +59,17 @@ p {
   padding-bottom: var(--fixed-border-width);
 }
 
+.posts .main-content:after,
+.posts .main-content:before,
+.posts #modal-menu:before,
+.posts #modal-menu:after {
+  background-color: #eee !important;
+}
+
+.posts .top-nav {
+  background-color: #eee;
+}
+
 #modal-menu:before {
   padding-bottom: 70px;
 }
@@ -80,6 +93,13 @@ p {
   border-left: var(--fixed-border-width) solid var(--fixed-border-color);
   border-right: var(--fixed-border-width) solid var(--fixed-border-color);
   background: var(--fixed-border-color);
+}
+
+.posts #modal-menu,
+.posts .main-content {
+  border-left: var(--fixed-border-width) solid #eee;
+  border-right: var(--fixed-border-width) solid #eee;
+  background: #eee;
 }
 
 #modal-menu {
@@ -154,6 +174,10 @@ p {
   align-items: center;
   justify-content: center;
   padding: 0 var(--fixed-border-width);
+}
+
+.posts .top-nav nav {
+  background-color: transparent;
 }
 
 @media screen and (max-width: 768px) {
@@ -245,10 +269,19 @@ svg {
 
 #burger svg {
   width: 32px;
+  transition: 0.2s;
+}
+
+#burger svg:hover {
+  opacity: 0.5;
 }
 
 #burger svg path {
   fill: var(--text-color);
+}
+
+#social-icons svg:hover {
+  opacity: 0.5;
 }
 
 /*

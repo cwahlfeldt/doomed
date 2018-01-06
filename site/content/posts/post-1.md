@@ -3,8 +3,9 @@ title: Top 2017 Metal Records
 date: '2017-12-10'
 image: /uploads/condor.jpg
 ---
-
 This has been a pretty good year for fresh-off-the-anvil heavy metal records, so, let's get started!
+
+![](/uploads/condor.jpg)
 
 ## SATAN'S HALLOW - S/T
 

@@ -1,9 +1,10 @@
 {{ define "content" }}
   <section class="single">
+    <h1 class="post-title">{{ .Title }}</h1>
+    <!-- <h1 class="post-title">{{ .Title }} // {{ .ReadingTime }}min.</h1> -->
     <div class="single-container">
-      <h1 class="post-title">{{ .Title }}</h1>
       {{ .Content }}
     </div>
-    <img class="fixed r0 featured-img" src="{{ .Params.Image }}" alt="">
+    <!-- <img class="fixed r0 featured-img" src="{{ .Params.Image }}" alt=""> -->
   </section>
 {{ end }}

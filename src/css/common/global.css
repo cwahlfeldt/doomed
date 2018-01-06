@@ -1,4 +1,4 @@
-html {
+:root {
   --fixed-top-border-width: 70px;
   --fixed-border-width: 35px;
   --burger-right: -110px;
@@ -11,13 +11,8 @@ html {
   --azo-sans: "sabbath-black", sans-serif;
 }
 
-html .posts {
-  --fixed-border-color: #eee;
-  --text-color: #111;
-}
-
 @media (max-width: 768px) {
-  body {
+  :root {
     --fixed-border-width: 0;
     --burger-right: -125px;
   }
@@ -287,7 +282,9 @@ svg {
 /*
 @media (max-width: 768px) {
   #social-icons,
-  #burger {
+  #burger 
+:w
+
     display: none;
   }
 }
@@ -336,4 +333,12 @@ svg {
 #loading svg g,
 #loading svg {
   fill: var(--fixed-border-color);
+}
+
+.post-title {
+  position: fixed;
+  left: -111px;
+  bottom: 198px;
+  transform: rotate(-90deg);
+  text-orientation: sideways;
 }

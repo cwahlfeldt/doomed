@@ -104,7 +104,7 @@ CMS.registerEditorComponent({
   // (component gives better render performance)
   toPreview: function(obj) {
     return (
-      `<img src="${obj.image}" alt="${obj.alt}"/>`
+      `<img src="${obj.id}" alt="${obj.alt}"/>`
     );
   }
 });

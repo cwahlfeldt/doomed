@@ -7,6 +7,8 @@ This has been a pretty good year for fresh-off-the-anvil heavy metal records, so
 
 ![undefined](/uploads/satans-hallow.jpg)
 
+![undefined](/uploads/condor.jpg)
+
 ## SATAN'S HALLOW - S/T
 
 Found out about this one from the inimitable 20 Buck Spin label, who described it as the year's best metal record. It's not, but damn close. Apparently it got snapped up pretty quick because I've already got a second pressing myself. Female-fronted traditional metal has always been a favorite of mine; bands like Acid and Sentinel Beast and even thrash like Holy Moses I tend to be a sucker for so this was right up my alley. Great solos, harmonies and melodies. When they pick up the speed a bit they even sound a little like Running Wild! Singer Mandy is great. Some of the pics of the band members are unfortunate however with the goofy look on the drummer's face and the haircut on the bass player which is the same as Jim Carrey in Dumb and Dumber, haha. In looking up their Bandcamp I discovered they're from Chicago -- no surprise there, the town is Metal Central.

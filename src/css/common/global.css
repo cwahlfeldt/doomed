@@ -124,7 +124,9 @@ p {
 }
 
 .single {
+  opacity: 0;
   height: 100%;
+  transition: var(--transition-time);
 }
 
 .featured-img {
@@ -331,4 +333,5 @@ svg {
   bottom: 198px;
   transform: rotate(-90deg);
   text-orientation: sideways;
+  transform-origin: right center 0;
 }

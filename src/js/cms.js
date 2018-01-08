@@ -86,25 +86,30 @@ CMS.registerEditorComponent({
     },
     {
       name: 'alt', label: 'Alt', widget: 'string'
+    },
+    {
+      name: 'caption', label: 'Caption', widget: 'string'
     }
   ],
   // Pattern to identify a block as being an instance of this component
-  pattern: /^image (\S+)$/,
+  pattern: /^img (\S+)$/,
   // Function to extract data elements from the regexp match
   fromBlock: function(match) {
     return {
-      id: match[1]
+      image: match[1]
     };
   },
   // Function to create a text block from an instance of this component
   toBlock: function(obj) {
-    return 'img ' + obj.id;
+    return (
+      `![${obj.alt}](${obj.image})`
+    );
   },
   // Preview output for this component. Can either be a string or a React component
   // (component gives better render performance)
   toPreview: function(obj) {
     return (
-      `<img src="${obj.id}" alt="${obj.alt}"/>`
+      `<img src="${obj.image}" alt="${obj.alt}"/>`
     );
   }
 });

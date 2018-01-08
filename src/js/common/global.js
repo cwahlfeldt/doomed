@@ -2,6 +2,7 @@ import ScrollReveal from 'scrollreveal';
 
 $(window).on("load", () => {
   $('#loading').remove();
+  $('.single').css({opacity: 1})
   $('#blog .container').css({visibility: 'visible'});
 
   const sr = ScrollReveal({
@@ -15,13 +16,12 @@ $(window).on("load", () => {
   $(".col-3 input").val("");
 
   $(".input-effect input").on('focusout', function(){
-    console.log('wtf mate');
-    if($(this).val() != ""){
+    if ($(this).val() != "") {
       $(this).addClass("has-content");
-    }else{
+    } else {
       $(this).removeClass("has-content");
     }
-  })
+  });
 });
 
 // JS Goes here - ES6 supported
@@ -34,6 +34,8 @@ if (window.netlifyIdentity) {
     }
   });
 }
+
+$('.single p > img').parent().addClass('image');
 
 /*
 $('#burger').toggle(function() {

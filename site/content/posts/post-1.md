@@ -5,7 +5,7 @@ image: /uploads/condor.jpg
 ---
 This has been a pretty good year for fresh-off-the-anvil heavy metal records, so, let's get started!
 
-<img src="/uploads/condor.jpg" alt="undefined"/>
+<img class="image" src="/uploads/condor.jpg" alt="undefined"/>
 
 ## SATAN'S HALLOW - S/T
 

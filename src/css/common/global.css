@@ -363,3 +363,18 @@ svg {
     display: none;
   }
 }
+
+.single-container h2 strong {
+  font-size: 1.5rem;
+  font-weight: 100;
+  font-style: italic;
+  line-height: 1.6;
+}
+
+.medium-zoom-overlay {
+  z-index: 99999;
+}
+
+.medium-zoom-image {
+  z-index: 99999;
+}

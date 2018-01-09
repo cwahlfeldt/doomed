@@ -4828,6 +4828,10 @@ mdurl@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/mdurl/-/mdurl-1.0.1.tgz#fe85b2ec75a59037f2adfec100fd6c601761152e"
 
+medium-zoom@^0.3.0:
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/medium-zoom/-/medium-zoom-0.3.0.tgz#e0745b604260a824db2db1b64bf088a152c3fdfa"
+
 memory-fs@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/memory-fs/-/memory-fs-0.2.0.tgz#f2bb25368bc121e391c2520de92969caee0a0290"

@@ -44,7 +44,7 @@
     "imports-loader": "^0.6.5",
     "jquery": "^3.2.1",
     "lottie-web": "^5.0.5",
-    "netlify-cms": "^1.0.1",
+    "netlify-cms": "^1.0.3",
     "parcel-bundler": "^1.4.1",
     "postcss-css-variables": "^0.8.0",
     "postcss-cssnext": "^2.7.0",

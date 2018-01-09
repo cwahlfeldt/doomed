@@ -74,6 +74,8 @@ CMS.registerEditorComponent({
     );
   }
 });
+
+/*
 CMS.registerEditorComponent({
   // Internal id of the component
   id: "image",
@@ -113,3 +115,4 @@ CMS.registerEditorComponent({
     );
   }
 });
+*/

@@ -5052,9 +5052,9 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-netlify-cms@^1.0.1:
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/netlify-cms/-/netlify-cms-1.0.2.tgz#377407371a2edf8fbf05c068fd2fd8f16aa85833"
+netlify-cms@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/netlify-cms/-/netlify-cms-1.0.3.tgz#444dde9d70c33e06a169439514d74ea7f604cd7c"
   dependencies:
     classnames "^2.2.5"
     create-react-class "^15.6.0"
@@ -5063,6 +5063,7 @@ netlify-cms@^1.0.1:
     gray-matter "^3.0.6"
     history "^4.7.2"
     immutable "^3.7.6"
+    is-hotkey "^0.1.1"
     js-base64 "^2.1.9"
     js-yaml "^3.10.0"
     jwt-decode "^2.1.0"

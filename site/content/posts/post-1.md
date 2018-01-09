@@ -3,7 +3,7 @@ title: Top 2017 Metal Records
 date: '2017-12-10'
 image: /uploads/condor.jpg
 ---
-This has been a pretty good year for fresh-off-the-anvil heavy metal records, so, let's get started!
+## This has been a pretty good year for fresh-off-the-anvil heavy metal records, so, let's get started!
 
 ![undefined](/uploads/satans-hallow.jpg)
 
@@ -13,7 +13,7 @@ Found out about this one from the inimitable 20 Buck Spin label, who described i
 
 https://satanshallow.bandcamp.com/album/satans-hallow
 
-![](/uploads/witcher3.jpg)
+![null](/uploads/witcher3.jpg)
 
 ## LADY BEAST - VICIOUS BREED
 

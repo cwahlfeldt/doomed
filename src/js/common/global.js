@@ -25,6 +25,7 @@ $(window).on("load", () => {
   });
 });
 
+
 $(document).ready(() => {
   // JS Goes here - ES6 supported
   if (window.netlifyIdentity) {

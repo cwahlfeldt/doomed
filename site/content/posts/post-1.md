@@ -13,6 +13,8 @@ Found out about this one from the inimitable 20 Buck Spin label, who described i
 
 https://satanshallow.bandcamp.com/album/satans-hallow
 
+![](/uploads/witcher3.jpg)
+
 ## LADY BEAST - VICIOUS BREED
 
 Speaking of female-fronted traditional metal from the US, here's the third LP from the long-running Lady Beast. These cats rolled through Champaign, IL a couple years back and crushed it headlining a show otherwise dominated by punk bands. We get more of the same from them here, which is absolutely not a problem at all. To compare to Satan's Hallow they're a little faster and heavier but mine the same kind of Maiden-esque classic ore from the hillside. Singer Deborah is similarly clear and forceful with a midrange that doesn't waver. Definitely worth checking out.

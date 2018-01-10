@@ -53,7 +53,7 @@ $('#burger').on('click', function(e) {
 
 burgerAnimation.addEventListener('complete', function() {
   console.log(burgerAnimation.currentRawFrame);
-  if (burgerAnimation.currentFrame == 58.5) {
+  if (burgerAnimation.currentFrame === 58.5) {
     console.log('stoped')
     burgerAnimation.currentFrame = 0;
   } else {

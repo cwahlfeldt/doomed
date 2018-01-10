@@ -11,7 +11,10 @@ collections:
     create: true
     sort: "date:desc"
     fields:
-      - {label: "Title", name: "title", widget: "string", format: "MMM Do YY"}
-      - {label: "Post Date", name: "date", widget: "date"}
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Post Date", name: "date", widget: "datetime", format: "MMM Do YY"}
+      - {label: "Published", name: "published", widget: "boolean", {default: true}}
+      - {label: "Featured", name: "featured", widget: "boolean", default: false}
       - {label: "Featured Image", name: "image", widget: "image"}
+      - {label: "Intro", name: "intro", widget: "text"}
       - {label: "Content", name: "body", widget: "markdown"}

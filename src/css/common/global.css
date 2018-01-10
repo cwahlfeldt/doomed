@@ -133,6 +133,7 @@ p {
   margin: 0 auto;
 }
 
+.intro p,
 .single-container p,
 .single-container h2 {
   width: 100%;
@@ -143,9 +144,29 @@ p {
   line-height: 1.4;
 }
 
+.intro {
+  position: relative;
+  display: flex;
+}
+
+.intro p {
+  position: absolute;
+  right: 0;
+  top: 73%;
+  transform: translateY(-70%);
+  width: 100%;
+  max-width: 506px;
+  font-size: 1.7rem;
+  line-height: 1.5;
+  background: #eee;
+  padding: 15px 20px;
+  left: 478px;
+}
+
 .single-container p {
   font-size: 1.2rem;
   line-height: 1.5;
+  text-align: justify;
 }
 
 .single-container h1,
@@ -164,15 +185,18 @@ p {
   max-width: 1100px;
   padding-left: 0;
   padding-right: 0;
-  padding-top: 35px;
-  padding-bottom: 10px;
   text-align: center;
 }
 
+.featured-img {
+  max-width: 680px;
+  text-align: center;
+}
 
+.featured-img,
 .single-container p.image img {
   height: 100%;
-  max-height: 700px;
+  max-height: 680px;
 }
 
 /*

@@ -10,11 +10,9 @@ intro: >-
 ---
 ## SATAN'S HALLOW - S/T
 
-![SATAN'S HALLOW - S/T](/uploads/satans-hallow.jpg)
+<section class="responsive-container"><iframe src="https://bandcamp.com/EmbeddedPlayer/album=1958359589/size=large/bgcol=ffffff/linkcol=de270f/tracklist=false/transparent=true/" seamless><a href="http://satanshallow.bandcamp.com/album/satans-hallow">Satan&#39;s Hallow by Satan&#39;s Hallow</a></iframe></section>
 
 Found out about this one from the inimitable 20 Buck Spin label, who described it as the year's best metal record. It's not, but damn close. Apparently it got snapped up pretty quick because I've already got a second pressing myself. Female-fronted traditional metal has always been a favorite of mine; bands like Acid and Sentinel Beast and even thrash like Holy Moses I tend to be a sucker for so this was right up my alley. Great solos, harmonies and melodies. When they pick up the speed a bit they even sound a little like Running Wild! Singer Mandy is great. Some of the pics of the band members are unfortunate however with the goofy look on the drummer's face and the haircut on the bass player which is the same as Jim Carrey in Dumb and Dumber, haha. In looking up their Bandcamp I discovered they're from Chicago -- no surprise there, the town is Metal Central.
-
-https://satanshallow.bandcamp.com/album/satans-hallow
 
 ## LADY BEAST - VICIOUS BREED
 
@@ -70,7 +68,7 @@ https://cadaveric-incubator.bandcamp.com/
 
 The aforementioned 20 Buck Spin puts out some solid stuff, usually in the doom mode of things, but this is some straight-up filthy-ass death metal outta Portland, OR. Though their previous LP didn't particularly catch my ear this year's EP release got spin after spin (heh) on my turntable. Battering and, yes, influenced by Incantation a bit, especially in the vocals, but that doesn't comprise their whole sound unlike countless other bands out there. By the way, that term "caverncore" needs to fucking go, people. It's fucking death metal -- get over yourselves.
 
-http://listen.20buckspin.com/album/poisoned-blood
+<p><iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=852715538/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://listen.20buckspin.com/album/poisoned-blood">Poisoned Blood by Witch Vomit</a></iframe></p>
 
 ## UNDERGANG - MISANTROPOLOGI
 

@@ -36,6 +36,28 @@ p {
   margin: 0;
 }
 
+.responsive-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 700px !important;
+}
+
+@media screen and (max-width: 768px) {
+  .responsive-container {
+    padding-bottom: 99% !important;
+  }
+}
+
+.responsive-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-left: none;
+}
+
 .main-content:before,
 .main-content:after,
 .top-nav,
@@ -135,13 +157,18 @@ p {
 
 .intro p,
 .single-container p,
-.single-container h2 {
+.single-container h2,
+.single-container .responsive-container {
   width: 100%;
   max-width: 600px;
   margin: 0 auto;
   padding: 10px 10px;
   font-size: 1.1rem;
   line-height: 1.4;
+}
+
+.single-container .responsive-container {
+  max-width: 590px;
 }
 
 .intro {

@@ -137,7 +137,7 @@ p {
 .single-container p,
 .single-container h2 {
   width: 100%;
-  max-width: 700px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 10px 10px;
   font-size: 1.1rem;
@@ -146,21 +146,18 @@ p {
 
 .intro {
   position: relative;
-  display: flex;
+  z-index: 1;
 }
 
 .intro p {
   position: absolute;
+  bottom: 0;
   right: 0;
-  top: 73%;
-  transform: translateY(-70%);
   width: 100%;
-  max-width: 506px;
   font-size: 1.7rem;
   line-height: 1.5;
   background: #eee;
-  padding: 15px 20px;
-  left: 478px;
+  padding: 15px 0 15px 20px;
 }
 
 .single-container p {
@@ -177,8 +174,11 @@ p {
 .single-container h6 {
   margin-top: 10px;
   letter-spacing: 1px;
-  font-family: var(--freight-sans);
-  font-size: 2rem;
+  font-family: freight-sans-compressed-pro,sans-serif;
+  font-size: 1.2em;
+  text-transform: full-width;
+  font-weight: bolder;
+  line-height: 1.8;
 }
 
 .single-container p.image {
@@ -189,14 +189,22 @@ p {
 }
 
 .featured-img {
-  max-width: 680px;
   text-align: center;
+  height: 100vh !important;
+  width: 100% !important;
+  max-height: calc(100vh - 105px) !important;
+  object-fit: cover;
+  z-index: -1;
 }
 
 .featured-img,
 .single-container p.image img {
   height: 100%;
-  max-height: 680px;
+  max-height: 640px;
+}
+
+.single-container {
+  padding: 100px 0;
 }
 
 /*

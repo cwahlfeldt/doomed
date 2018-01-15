@@ -230,6 +230,22 @@ p {
   max-height: 640px;
 }
 
+.image img {
+  max-width: 500px;
+  padding: 15px;
+  top: 15px;
+  position: relative;
+  z-index: 1;
+}
+
+.image:nth-child(even) img {
+  float: left;
+}
+
+.image:nth-child(odd) img {
+  float: right;
+}
+
 .single-container {
   padding: 100px 0;
 }

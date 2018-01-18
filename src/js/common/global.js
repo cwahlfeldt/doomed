@@ -1,6 +1,7 @@
 import ScrollReveal from 'scrollreveal';
 import mediumZoom from 'medium-zoom';
 
+// after everything
 $(window).on("load", () => {
   $('#loading').remove();
   $('.single').css({opacity: 1})
@@ -25,7 +26,7 @@ $(window).on("load", () => {
   });
 });
 
-
+// before everything
 $(document).ready(() => {
   // JS Goes here - ES6 supported
   if (window.netlifyIdentity) {
@@ -41,4 +42,15 @@ $(document).ready(() => {
   $('.single p > img').parent().addClass('image');
 
   mediumZoom('.single p > img', {});
+
+  let index = 0;
+  $('p.image > img').each(function() {
+    if (index % 2 === 0) {
+      $(this).addClass('fl');
+    } else {
+      $(this).addClass('fr');
+    }
+
+    index++;
+  });
 });

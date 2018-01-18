@@ -198,13 +198,14 @@ p {
 .single-container h4,
 .single-container h5,
 .single-container h6 {
-  margin-top: 10px;
   letter-spacing: 1px;
   font-family: freight-sans-compressed-pro,sans-serif;
   font-size: 1.2em;
   text-transform: full-width;
   font-weight: bolder;
   line-height: 1.8;
+  clear: both;
+  padding-top: 45px;
 }
 
 .single-container p.image {
@@ -237,11 +238,11 @@ p {
   z-index: 1;
 }
 
-.image:nth-child(even) img {
+.image:nth-child(2n) img {
   float: left;
 }
 
-.image:nth-child(odd) img {
+.image:nth-child(2n+2) img {
   float: right;
 }
 

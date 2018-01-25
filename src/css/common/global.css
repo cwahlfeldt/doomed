@@ -156,6 +156,7 @@ p {
 }
 
 .intro p,
+.comments,
 .single-container p,
 .single-container h2,
 .single-container .responsive-container {
@@ -165,6 +166,10 @@ p {
   padding: 10px 10px;
   font-size: 1.1rem;
   line-height: 1.4;
+}
+
+.comments {
+  padding-top: 40px;
 }
 
 .single-container .responsive-container {

@@ -173,6 +173,7 @@ p {
 
 .intro {
   position: relative;
+  padding-left: 56px;
   z-index: 1;
 }
 
@@ -442,7 +443,7 @@ svg {
 
 .post-title {
   position: fixed;
-  left: 24px;
+  left: 23px;
   bottom: -46px;
   transform: rotate(-90deg);
   transform-origin: 0 0 0;
@@ -451,6 +452,7 @@ svg {
   letter-spacing: 2px;
   color: var(--text-color);
   text-transform: uppercase;
+  z-index: 2;
 }
 
 @media screen and (max-width: 768px) {

@@ -2,3 +2,4 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Doomed"
 enableEmoji = true
+disqusShortname = "cwahlfeldt"

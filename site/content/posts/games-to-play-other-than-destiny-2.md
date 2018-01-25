@@ -3,6 +3,11 @@ title: Games to Play Other than Destiny 2
 date: '2017-11-10'
 published: true
 featured: true
+image: /uploads/destiny-2-pc.jpg
+intro: >-
+  Destiny 2 has had a rough year. The hype train was real when this came out,
+  and was slated to reinvigorate the IP (Destiny) to surpass its almost “beta”
+  like first entry.
 ---
 
 Destiny 2 has had a rough year. The hype train was real when this came out, and was slated to reinvigorate the IP (Destiny) to surpass its almost “beta” like first entry.

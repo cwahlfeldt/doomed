@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"./common/global"},{"name":"./animation"}],"generated":{"js":"\"use strict\";\n\nrequire(\"./common/global\");\n\nrequire(\"./animation\");"},"hash":"ad7c50bea842859388b043856bdf0e5f"}

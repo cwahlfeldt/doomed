@@ -10,9 +10,11 @@
     "build-preview": "gulp build-preview",
     "start": "gulp server",
     "lint": "eslint src",
-    "p-build": "parcel build src/js/app.js"
+    "p-build": "parcel build src/js/app.js",
+    "push:production": "rm -rf ./.cache && git add -A && git commit -m '$1' && git push origin master",
+    "push:dev": "git add -A && git commit -m $1 && git push origin dev"
   },
-  "author": "",
+  "author": "cwahlfeldt",
   "license": "MIT",
   "dependencies": {
     "@babel/register": "^7.0.0-beta.37",

@@ -1,1 +1,0 @@
-{"dependencies":[{"name":"path","loc":{"line":1,"column":19}}],"generated":{"js":"var __dirname = \"/Users/cwahlfeldt/Apps/doomed/node_modules/hamburgers\";\nvar e=\"/Users/cwahlfeldt/Apps/doomed/node_modules/hamburgers\",s=require(\"path\");module.exports={includePaths:[s.join(e,\"_sass/hamburgers\")]};"},"hash":"7fe1e770f7600534f1cfc43dcc8684eb"}

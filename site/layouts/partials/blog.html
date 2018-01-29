@@ -4,24 +4,25 @@
     {{ range $index, $element := (where .Site.Pages.ByDate "Section" "posts") }}
 
 
-      <!-- LAYOUT 1 -->
-      {{ if eq $index 0 }}
-        <div class="fl w-50">
-          <h3 class="title">{{ .Title }}</h3>
-          <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
-            <span role="img" aria-label="Seat at Table Solange" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
-          </a>
-        </div>
-      {{ else if and (le $index 4) (gt $index 0) }}
-        <div class="fl w-50 w-25-ns">
-          <h3 class="title">{{ .Title }}</h3>
-          <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
-            <span role="img" aria-label="Beyoncé" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
-          </a>
-        </div>
-      {{ end }}
-      <!-- // LAYOUT 1 // -->
-
+      <div class="layout-one">
+        <!-- LAYOUT 1 -->
+        {{ if eq $index 0 }}
+          <div class="fl w-50">
+            <h3 class="title">{{ .Title }}</h3>
+            <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="A">
+              <span role="img" aria-label="Seat at Table Solange" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
+            </a>
+          </div>
+        {{ else if and (le $index 4) (gt $index 0) }}
+          <div class="fl w-50 w-25-ns">
+            <h3 class="title">{{ .Title }}</h3>
+            <a href="{{ .URL }}" class="db aspect-ratio aspect-ratio--1x1 dim" data-layout="B">
+              <span role="img" aria-label="Beyoncé" style="background-image:url({{ .Params.image }});" class="bg-center cover aspect-ratio--object"></span>
+            </a>
+          </div>
+        {{ end }}
+        <!-- // LAYOUT 1 // -->
+      </div>
 
       <!-- LAYOUT 2 -->
       {{ if and (ge $index 5) (lt $index 9) }}

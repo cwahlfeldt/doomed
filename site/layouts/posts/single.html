@@ -1,7 +1,7 @@
 {{ define "content" }}
   <section class="single">
     <h1 class="post-title">{{ .Title }}<br>
-      <span class="meta-info">by Chris Wahlfeldt // August 10th 2018</span>
+      <span class="meta-info">by Chris Wahlfeldt // {{ .ReadingTime }}min.</span>
     </h1>
     <div class="intro">
       <img class="featured-img" src="{{ .Params.Image }}" alt="">

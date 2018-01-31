@@ -1,16 +1,17 @@
 {{ define "content" }}
   <section class="single">
-    <h1 class="post-title">{{ .Title }}</h1>
+    <h1 class="post-title">{{ .Title }}<br>
+      <span class="meta-info">by Chris Wahlfeldt // August 10th 2018</span>
+    </h1>
     <div class="intro">
       <img class="featured-img" src="{{ .Params.Image }}" alt="">
-      <p>{{ .Params.Intro }}</p>
+      <!-- <p>{{ .Params.Intro }}</p> -->
     </div>
     <!-- <h1 class="post-title">{{ .Title }} // {{ .ReadingTime }}min.</h1> -->
     <div class="single-container">
       {{ .Content }}
 
       <div class="comments">
-        fucking with dev
         {{ partial "disqus.html" . }}
       </div>
     </div>

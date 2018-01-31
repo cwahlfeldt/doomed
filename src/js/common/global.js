@@ -24,6 +24,7 @@ $(window).on("load", () => {
       $(this).removeClass("has-content");
     }
   });
+
 });
 
 // before everything
@@ -43,14 +44,7 @@ $(document).ready(() => {
 
   mediumZoom('.single p > img', {});
 
-  let index = 0;
   $('p.image > img').each(function() {
-    if (index % 2 === 0) {
-      $(this).addClass('fl');
-    } else {
-      $(this).addClass('fr');
-    }
-
-    index++;
+    $(this).addClass('fl');
   });
 });

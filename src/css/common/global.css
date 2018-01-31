@@ -145,6 +145,8 @@ p {
   opacity: 0;
   height: 100%;
   transition: var(--transition-time);
+  margin-left: 80px;
+  border-left: 3px solid #ff4136;
 }
 
 .featured-img {
@@ -161,11 +163,12 @@ p {
 .single-container h2,
 .single-container .responsive-container {
   width: 100%;
-  max-width: 600px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 10px 10px;
   font-size: 1.1rem;
   line-height: 1.4;
+  padding-left: 300px;
 }
 
 .comments {
@@ -178,7 +181,6 @@ p {
 
 .intro {
   position: relative;
-  padding-left: 56px;
   z-index: 1;
 }
 
@@ -449,7 +451,7 @@ svg {
 .post-title {
   position: fixed;
   left: 23px;
-  bottom: -46px;
+  bottom: -60px;
   transform: rotate(-90deg);
   transform-origin: 0 0 0;
   font-family: var(--freight-sans);
@@ -479,4 +481,12 @@ svg {
 
 .medium-zoom-image {
   z-index: 99999;
+}
+
+span.meta-info {
+  font-size: 18px;
+  letter-spacing: 5px;
+  display: block;
+  margin-top: 5px;
+  text-transform: none;
 }

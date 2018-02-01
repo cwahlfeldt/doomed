@@ -15,3 +15,4 @@ collections:
       - {label: "Post Date", name: "date", widget: "date"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Content", name: "body", widget: "markdown"}
+      - {label: "Gallery", name: "galleryImages", widget: "list", field: {label: Image, name: image, widget: image}}

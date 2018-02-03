@@ -13,6 +13,6 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string", format: "MMM Do YY"}
       - {label: "Post Date", name: "date", widget: "date"}
+      - {label: "Post Date", name: "dateAgain", widget: "date"}
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Content", name: "body", widget: "markdown"}
-      - {label: "Gallery", name: "galleryImages", widget: "list", field: {label: Image, name: image, widget: image}}

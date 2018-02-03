@@ -18,3 +18,15 @@ collections:
       - {label: "Featured Image", name: "image", widget: "image"}
       - {label: "Intro", name: "intro", widget: "text"}
       - {label: "Content", name: "body", widget: "markdown"}
+      - label: "Testimonials"
+        name: "testimonials"
+        widget: "list"
+        fields:
+          - {label: Quote, name: quote, widget: string, default: "Everything is awesome!"}
+          - label: Author
+            name: author
+            widget: object
+            fields:
+              - {label: Name, name: name, widget: string, default: "Emmet"}
+              - {label: Avatar, name: avatar, widget: image, default: "/img/emmet.jpg"}
+

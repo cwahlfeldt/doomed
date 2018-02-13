@@ -12,7 +12,9 @@
     "lint": "eslint src",
     "p-build": "parcel build src/js/app.js",
     "push:production": "rm -rf ./.cache && git add -A && git commit -m '$1' && git push origin master",
-    "push:dev": "git add -A && git commit -m $1 && git push origin dev"
+    "push:dev": "git add -A && git commit -m $1 && git push origin dev",
+    "storybook": "start-storybook -p 6006",
+    "build-storybook": "build-storybook"
   },
   "author": "cwahlfeldt",
   "license": "MIT",
@@ -46,6 +48,7 @@
     "hamburgers": "^0.9.1",
     "imports-loader": "^0.6.5",
     "jquery": "^3.2.1",
+    "lost": "^8.2.0",
     "lottie-web": "^5.0.5",
     "medium-zoom": "^0.3.0",
     "netlify-cms": "^1.0.3",
@@ -65,6 +68,7 @@
     "whatwg-fetch": "^1.0.0"
   },
   "devDependencies": {
+    "babel-core": "^6.26.0",
     "gulp-inject": "^4.2.0",
     "gulp-svgmin": "^1.2.3",
     "gulp-svgstore": "^6.1.0",

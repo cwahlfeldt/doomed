@@ -10,7 +10,6 @@
 
 /* import tachyons first */
 @import 'tachyons';
-@import 'hamburgers';
 
 /* imports */
 @import './common/global.css';

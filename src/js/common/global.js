@@ -44,7 +44,9 @@ $(document).ready(() => {
 
   mediumZoom('.single p > img', {});
 
+  /* weird formatting
   $('p.image > img').each(function() {
     $(this).addClass('fl');
   });
+  */
 });

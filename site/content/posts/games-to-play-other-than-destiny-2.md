@@ -3,14 +3,14 @@ title: Games to Play Other than Destiny 2
 date: '2017-11-10'
 published: true
 featured: true
-comments: true
 image: /uploads/destiny-2-pc.jpg
 intro: >-
   Destiny 2 has had a rough year. The hype train was real when this came out,
   and was slated to reinvigorate the IP (Destiny) to surpass its almost “beta”
   like first entry.
+testimonials:
+  - quote: cool
 ---
-
 Destiny 2 has had a rough year. The hype train was real when this came out, and was slated to reinvigorate the IP (Destiny) to surpass its almost “beta” like first entry.
 
 I was one of the millions of gamer’s that bought the game day one for PS4. The new story and multitude of activities to complete would keep me at bay for only so long. After completed the story and maxing my character out the game became monotonous and downright boring!
@@ -20,6 +20,8 @@ If this describes your experience with the game then you are not alone. With all
 Whatever they end doing to the game it still doesn’t fix it for the meantime which leads fan’s to either complain incessantly or simply scratch that multiplayer itch with other games. Remember kids there are thousands of games you can play that are not Destiny 2!
 
 ## Battlerite
+
+![battlrite screenshot](/uploads/battlerite.jpg)
 
 The term MOBA (Multiplayer Online Battle Arena) gets thrown around alot, and in and of itself is a generic term but accurately describes one of my favorite games of this last year, Battlerite. It quickly took my attention away from destiny and has held on to it since. Its a really fun game that focuses on fast paced, action packed, skill shot driven gameplay that somewhat mimics League and Dota but with finer tuned controls. The games only last up to 10 min so its perfect for anyone that has other things to do.
 

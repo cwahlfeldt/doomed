@@ -8,9 +8,9 @@ intro: >-
   Destiny 2 has had a rough year. The hype train was real when this came out,
   and was slated to reinvigorate the IP (Destiny) to surpass its almost “beta”
   like first entry.
-testimonials:
-  - quote: cool
 ---
+* * *
+
 Destiny 2 has had a rough year. The hype train was real when this came out, and was slated to reinvigorate the IP (Destiny) to surpass its almost “beta” like first entry.
 
 I was one of the millions of gamer’s that bought the game day one for PS4. The new story and multitude of activities to complete would keep me at bay for only so long. After completed the story and maxing my character out the game became monotonous and downright boring!

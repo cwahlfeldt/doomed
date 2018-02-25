@@ -417,20 +417,31 @@ svg {
 .title {
   margin: 0;
   position: absolute;
-  color: #fff;
-  z-index: 999;
   text-transform: uppercase;
   left: 26px;
-  bottom: 0;
   font-family: freight-sans-compressed-pro,sans-serif;
   font-weight: 100;
   letter-spacing: 1px;
-  font-size: 2.7vw;
-  transition: .1s;
   transform: rotate(-90deg);
   transform-origin: 000;
+}
+
+.title {
+  position: absolute;
+  left: 10px;
+  bottom: -15px;
+  color: #fff;
+  transition: .1s;
+  transform: rotate(-90deg);
+  transform-origin: 0 0 0;
+  font-family: var(--freight-sans);
+  font-family: freight-sans-compressed-pro,sans-serif;
+  font-size: 2vw;
+  letter-spacing: 2px;
+  font-weight: 600;
   line-height: 1.5;
   opacity: .5;
+  z-index: 999;
 }
 
 #blog div:hover > .title {

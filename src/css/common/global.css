@@ -168,7 +168,7 @@ p {
 .single-container h2,
 .single-container .responsive-container {
   width: 100%;
-  max-width: 600px;
+  max-width: 680px;
   margin: 0 auto;
   padding: 10px 10px;
   font-size: 1.1rem;
@@ -204,8 +204,8 @@ p {
 }
 
 .single-container p {
-  font-size: 1.2rem;
-  line-height: 1.5;
+  font-size: 1.3rem;
+  line-height: 1.6;
 }
 
 .single-container h1,
@@ -221,6 +221,7 @@ p {
   line-height: 1.8;
   clear: both;
   padding-top: 45px;
+  text-transform: uppercase;
 }
 
 .single-container p.image {
@@ -229,7 +230,10 @@ p {
   padding-left: 0;
   padding-right: 0;
   text-align: center;
-  margin-left: 4%;
+  margin-right: 0;
+  height: 100%;
+  max-height: 500px;
+  margin-top: 60px;
 }
 
 .featured-img {
@@ -248,10 +252,11 @@ p {
 }
 
 .image img {
-  max-width: 500px;
+  max-height: 500px !important;
   top: -50px;
   position: relative;
   z-index: 1;
+  margin-right: 50px;
 }
 
 .single-container {
@@ -291,7 +296,7 @@ p {
   background-color: var(--fixed-border-color);
   height: var(--fixed-top-border-width);
   align-items: center;
-  justify-content: center;
+  /* justify-content: center; */
   padding: 0 var(--fixed-border-width);
 }
 
@@ -353,16 +358,16 @@ p {
 }
 
 #social-icons {
-  left: var(--fixed-border-width);
-  top: 17px;
+ padding-left: var(--fixed-border-width);
 }
 
+/*
 @media screen and (max-width: 768px) {
   #social-icons {
     display: none;
   }
 }
-
+*/
 #social-icons svg {
   max-width: 25px;
   margin-right: 5px;

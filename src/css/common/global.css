@@ -173,7 +173,7 @@ p {
   padding: 10px 10px;
   font-size: 1.1rem;
   line-height: 1.4;
-  margin-right: 90px;
+  margin-right: 155px;
 }
 
 .comments {
@@ -420,7 +420,7 @@ svg {
   font-family: freight-sans-compressed-pro,sans-serif;
   font-weight: 100;
   letter-spacing: 1px;
-  font-size: 2.2vw;
+  font-size: 2.7vw;
   transition: .1s;
   transform: rotate(-90deg);
   transform-origin: 000;

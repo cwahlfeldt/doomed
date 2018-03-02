@@ -14,6 +14,8 @@ intro: >-
 
 I found out about this record from the inimitable 20 Buck Spin label, who described it as the year’s best metal record. It’s not, but it’s damn close. Female-fronted traditional metal has always been a favorite of mine; bands I tend to be a sucker for bands like Acid and Sentinel Beast and thrash bands like Holy Moses, so this was right up my alley. Great solos, harmonies, and melodies are featured throughout this album, and singer Mandy Martillo is great on it. When Satan’s Hallow pick up the speed they sound a little like Running Wild!
 
+<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1958359589/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://satanshallow.bandcamp.com/album/satans-hallow">Satan&#39;s Hallow by Satan&#39;s Hallow</a></iframe>
+
 ## LADY BEAST - VICIOUS BREED
 
 ![LADY BEAST - VICIOUS BREED](/uploads/lady-beast-vicious-breed-lp-black-1.jpg)

@@ -7,21 +7,18 @@ image: /uploads/-1.jpg
 intro: >-
   This has been a pretty good year for fresh-off-the-anvil heavy metal records,
   so, let's get started!
-testimonials:
-  - quote: fuck
 ---
-
 ## SATAN'S HALLOW - S/T
 
 ![SATANS HALLOW - S/T](/uploads/satans-hallow.jpg)
 
-Found out about this one from the inimitable 20 Buck Spin label, who described it as the year's best metal record. It's not, but damn close. Apparently it got snapped up pretty quick because I've already got a second pressing myself. Female-fronted traditional metal has always been a favorite of mine; bands like Acid and Sentinel Beast and even thrash like Holy Moses I tend to be a sucker for so this was right up my alley. Great solos, harmonies and melodies. When they pick up the speed a bit they even sound a little like Running Wild! Singer Mandy is great. Some of the pics of the band members are unfortunate however with the goofy look on the drummer's face and the haircut on the bass player which is the same as Jim Carrey in Dumb and Dumber, haha. In looking up their Bandcamp I discovered they're from Chicago -- no surprise there, the town is Metal Central.
+I found out about this record from the inimitable 20 Buck Spin label, who described it as the year’s best metal record. It’s not, but it’s damn close. Female-fronted traditional metal has always been a favorite of mine; bands I tend to be a sucker for bands like Acid and Sentinel Beast and thrash bands like Holy Moses, so this was right up my alley. Great solos, harmonies, and melodies are featured throughout this album, and singer Mandy Martillo is great on it. When Satan’s Hallow pick up the speed they sound a little like Running Wild!
 
 ## LADY BEAST - VICIOUS BREED
 
 ![LADY BEAST - VICIOUS BREED](/uploads/lady-beast-vicious-breed-lp-black-1.jpg)
 
-Speaking of female-fronted traditional metal from the US, here's the third LP from the long-running Lady Beast. These cats rolled through my hometown a couple years back and crushed it headlining a show otherwise dominated by punk bands. We get more of the same from them here, which is absolutely not a problem at all. To compare to Satan's Hallow they're a little faster and heavier but mine the same kind of Maiden-esque classic ore from the hillside. Singer Deborah is similarly clear and forceful with a midrange that doesn't waver. Definitely worth checking out.
+Speaking of female-fronted traditional metal from the US, here’s the third LP from the long-running band Lady Beast. These cats rolled through my hometown a couple years back and crushed it headlining a show dominated by punk bands. To compare to Satan’s Hallow, Lady Beast is a little faster and heavier, but they mine the same kind of Maiden-esque classic ore from the hillside. Singer Deborah Levine is similarly clear and forceful with a midrange that doesn’t waver. I’d definitely say this is worth checking out!
 
 https://ladybeast.bandcamp.com/album/vicious-breed
 
@@ -29,7 +26,7 @@ https://ladybeast.bandcamp.com/album/vicious-breed
 
 ![CONDOR - UNSTOPPABLE POWER](/uploads/condor.jpg)
 
-Now THIS one, what a total ripper. If I had to pick one out of all of these it would probably be my favorite of the year and has certainly been the most-played. Straight outta Kobotn, Norway, and members of the Kobotn Thrashers Union that I think Fenriz from Darkthrone started and at least is a member of, this trio play extremely destructive (pun intended) thrash. Imagine Destruction and Bulldozer thrown in a blender with a pinch of Nifelheim and you've got Condor. While their self-titled debut was a bit lacking, this one answers those problems with better riffs and even faster tempos. Their drummer Obskervind is a total maniac in the Chris Witchhunter (RIP) vein with loooooong fills and rolls that, unlike the late Witchhunter, are perfectly precise. There's also very loud and audible distorted bass that likes to poke through with its own riffs. They had me by the first song where the tempo unexpectedly hits double time like a race car driver shifting gears. And speaking of speed, even though this is typically fast thrash, they throw in a blast towards the end of the record! Top notch stuff; favorite song is the very Bulldozer-y "83 Days of Radiation". Did I mention that this is on High Roller Records out of Germany, re-releaser of all the great obscure '80s metal records, and artwork is done by no other than the notorious lunatic ROK from Sadistik Exekution? If those pedigrees don't tell you how good this is then I got nothing else for ya, man. Buy or die.
+Now THIS album is a total ripper. If I had to pick one out of all the list, _Unstoppable Power_ would probably be my favorite of the year, as it is certainly been my most-played album. Imagine Destruction and Bulldozer thrown in a blender with a pinch of Nifelheim, and you’ve got Condor. While their self-titled debut was a bit lacking, this one answers those problems with better riffs and even faster tempos. They had me by the first song where the tempo unexpectedly hits double time, like a race car driver shifting gears. And speaking of speed, even though this is typically fast thrash, they throw in a blast towards the end of the record! This album is top notch stuff, and my favorite song is the very Bulldozer-y “83 Days of Radiation.” ROK from Sadistik Exekution does the artwork for the record, which was put out by Germany’s High Roller Records. If those pedigrees don’t tell you how good this album is, then I got nothing else for ya, man. Buy or die.
 
 https://condornorway.bandcamp.com/album/unstoppable-power
 
@@ -37,7 +34,7 @@ https://condornorway.bandcamp.com/album/unstoppable-power
 
 ![URN - THE BURNING](/uploads/urn-the-burning.jpg)
 
-After a nine (!) year layoff, the bastards in Urn have come back to take home angel wings as trophies for their mantlepiece once again. I guess founder Sulphur (ex-Barathrum) finally got the creative juices flowing again and it shows. Though they are at their core fast-as-shit blackened thrash in the Nifelheim/Aura Noir vein, there's more than a whiff of trad melody and riffing going on in these songs, almost reminding of their countrymates in Wizzard (now that's a name you don't hear too often). They get bonus points as well for not only having ROK do their cover as well (and honestly it looks way better than the Condor art) but the packaging is totally bizarre. If I'm able to describe it, the front is in two halves and folds out, then there are two other folds so it makes a plus sign, basically. Not only that but they printed the lyrics backwards! Total cult. Suomi Finland perkele!
+After a nine-year layoff, the bastards in Urn have come back to take home angel wings as trophies for their mantlepiece once again. I guess founder Sulphur (ex-Barathrum) finally got the creative juices flowing again, and it shows. Though Urn are at their core fast-as-shit blackened thrash in the Nifelheim/Aura Noir vein, there’s more than a whiff of traditional melody and riffing going on in these songs. They get bonus points as well for ROK doing their album cover (and honestly it looks way better than the Condor art). Total cult. Suomi Finland perkele!
 
 https://ironboneheadproductions.bandcamp.com/album/urn-the-burning
 
@@ -45,7 +42,7 @@ https://ironboneheadproductions.bandcamp.com/album/urn-the-burning
 
 ![BLOOD - INFERNO](/uploads/blood-inferno-cover.jpg)
 
-Yet another comeback after a long layoff, the gods of grind, Germany's own Blood, have finally returned. Despite some live recordings their last album was in '03, but the wait was certainly worth it. And Martin Witchskinner has even returned on vocals! Blood have always had a peculiar sound that is all their own, a mix of grindcore and death metal with a slightly punky vibe. They've outdone themselves this time though. Each song seems to have been cherry-picked from a different year, with the oldest going all the way back to 1988! Yet despite that everything coalesces perfectly. It's also kind of a concept album in that almost all the lyrics minus one or two (maybe just one) songs are Satanic in nature which is a first for them. They've always been blasphemous but this is over the top; as if the lyrics, samples (the priest from The Omen takes up most of the intro) and Chris Moyen art don't say it enough the insert has a nice anti-Jesus Fish sign. Their standard mix of catchy, chunky riffing with saggingly heavy slower parts, crazy blasting (which seems to lack a lot of bass drum for some reason) and plinky, upper range bass playing is in full effect. My favorite is probably "Impulse to Destroy" with its sudden tempo shifts and earworm chorus. I actually met guitarist Destroyer Eisen at a concert this year as he came over to Chicago to see the two Autopsy shows and he's a super nice guy. Worth getting the vinyl cause it comes with poster, two stickers, AND a CD. Unfortunately there's no Bandcamp but you can get a sample below.
+Yet another band with a comeback after a long layoff, the German gods of grind Blood have finally returned. Blood’s last studio album was released on 2003, and the wait was certainly worth it. Martin Witchskinner even returned on vocals! They’ve always been blasphemous, but this album is over the top. The lyrics, audio samples (the priest from The Omen takes up most of the intro), and Chris Moyen’s art, as well as the inclusion of an insert that has a nice anti-Jesus Fish sign highlight the blasphemy. Their standard mix of catchy, chunky riffing with sagging, heavy slower parts, crazy blasting (which seems to lack a lot of bass drum from some reason), and plinky, upper range bass playing is in full effect. My favorite song is probably “Impulse to Destroy,” with its sudden tempo shifts and earworm chorus. I actually met guitarist Destroyer Eisen at a concert last year, as he came over to Chicago to see two Autopsy shows, and he’s a super nice guy. Unfortunately, there’s no Bandcamp for this album, but you can get a sample below.
 
 https://www.youtube.com/watch?v=HKtpSF4FTw4
 
@@ -53,15 +50,15 @@ https://www.youtube.com/watch?v=HKtpSF4FTw4
 
 ![EVIL - RITES OF EVIL](/uploads/evil-rites-of-evil.jpg)
 
-This came as quite a surprise. Not a lot of original Nuclear War Now! Productions releases come by my way as they just don't always hit the spot with me (still love ya Yosuke), but this one did in a big way. This four-piece from Tokyo has a very Japanese sound -- read, Sabbat -- but with a strong Sarcofago influence coming through in waves of blasting snare. The singer loves to throw in those high, Wagner Antichrist-esque wails too. In that familiar Japanese way you'll find yourself thinking he's saying something in English that isn't what it actually is, example being "Transfixion" turning into "Christmas", haha. The riffs are so simple but so goddamn catchy. Definitely pick this up if you're a fan of Sabbat (the Japanese one of course ya dummy).
+This came as quite a surprise to me. Not a lot of original Nuclear War Now! Productions releases hit the spot for me (still love ya Yosuke), but this one did in a big way. This four-piece from Tokyo has a very Japanese sound but with a strong Sarcofago influence coming through in waves of blasting snare. The singer loves to throw in those high, Wagner Antichrist-esque wails, too. The riffs are so simple but so goddamn catchy. Definitely pick this up if you’re a fan of Sabbat.
 
 https://nuclearwarnowproductions.bandcamp.com/album/rites-of-evil
 
 ## CADAVERIC INCUBATOR - SERMONS OF THE DEVOURING DEAD
 
-![](/uploads/cavertic-icubator.jpg)
+![null](/uploads/cavertic-icubator.jpg)
 
-From members of Carnifex and Festerday up in Finland comes this nasty piece of work. Of course the first thing you'll think due to the name is "Carcass worship" but that isn't entirely true. Though there's a clear influence from the masters of goregrind on here, there's also a distinct whiff -- more accurately, stench -- of Autopsy, Repulsion and even Master in the songwriting. So, needless to say, this is some totally old-school death metal. It's nice to hear a really ancient sounding band that doesn't just rip off Incantation these days. Put out by the hard-working Ohioans at Hell's Headbangers records. Support!
+From members of Carnifex and Festerday up in Finland comes this nasty piece of work. The first thing you’ll think due to the name is “Carcass worship,” but that isn’t entirely true. Although there’s a clear influence from the masters of goregrind on here, there’s also a distinct whiff (more accurately, stench) of Autopsy, Repulsion, and even Master in the songwriting. So, needless to say, this is some totally old-school death metal. It’s nice to hear a really ancient sounding band that doesn’t just rip off Incantation these days. _Sermons of the Devouring Dead_ was also put out by the hard-working Ohioans at Hells Headbangers Records. Support!
 
 https://cadaveric-incubator.bandcamp.com/
 
@@ -69,7 +66,7 @@ https://cadaveric-incubator.bandcamp.com/
 
 ![WITCH VOMIT - POISONED BLOOD](/uploads/witch-vomit.jpg)
 
-The aforementioned 20 Buck Spin puts out some solid stuff, usually in the doom mode of things, but this is some straight-up filthy-ass death metal outta Portland, OR. Though their previous LP didn't particularly catch my ear this year's EP release got spin after spin (heh) on my turntable. Battering and, yes, influenced by Incantation a bit, especially in the vocals, but that doesn't comprise their whole sound unlike countless other bands out there. By the way, that term "caverncore" needs to fucking go, people. It's fucking death metal -- get over yourselves.
+The aforementioned 20 Buck Spin puts out some solid stuff, usually in the doom mode of things, but this is some straight-up filthy-ass death metal outta Portland, Oregon. Though their previous LP didn’t particularly catch my ear, this year’s DP release got spin after spin on my turntable. _Poisoned Blood_, while being influenced by Incantation a bit, is battering, especially in the vocals, but that doesn’t comprise their whole sound unlike countless other bands out there. By the way, the term “caverncore” needs to fucking go. It’s fucking death metal, get over yourselves.
 
 <p><iframe style="border: 0; width: 100%; height: 42px;" src="http://bandcamp.com/EmbeddedPlayer/album=852715538/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://listen.20buckspin.com/album/poisoned-blood">Poisoned Blood by Witch Vomit</a></iframe></p>
 
@@ -77,8 +74,8 @@ The aforementioned 20 Buck Spin puts out some solid stuff, usually in the doom m
 
 ![UNDERGANG - MISANTROPOLOGI](/uploads/undergang.jpg)
 
-You want utterly rotten and disgusting? Abysmally heavy and totally crushing? Then this is totally for you. Denmark's Undergang has quite the little discography under their belt and this one is yet another slab of their familiar sound: detuned and slowly swinging whenever they're not rushing at you like an angry rhyno. When I listen to this I can just see a circle pit open up at a show. For reference, think Asphyx, Bolt Thrower, and the heaviest of the old Finnish (here we go again) death scene, like early Abhorrence/Amorphis... hell, they even cap the album off with a cover of Disgrace just to emphasize my point. It just has that extra layer of grime though that makes them a singular entity. Dark Descent put this one out and they also re-release a lot of classic, forgotten stuff in the realm of '90s death, etc. so go check their site sometime.
+You want utterly rotten and disgusting? Abysmally heavy and totally crushing? This record is totally for you. Denmark’s Undergang has quite the little discography under their belt, and _Misantropologi_ is yet another slab of their familiar sound: detuned and slowly swinging whenever they’re not rushing at you like an angry rhino. When I listen to this, I can just see a circle pit open up at a show. For reference, think Asphyx, Bolt Thrower, and the heaviest of the old Finnish death scene, like early Abhorrence or Amorphis. Hell, Undergang even caps the album off with a cover of “The Chasm” by Disgrace, just to emphasize my point. It just has that extra layer of grime that makes them a singular entity. Dark Descent put this one out, and they also re-release a lot of classic, forgotten stuff in the realm of 1990’s death, so go check out their site sometime.
 
 https://darkdescentrecords.bandcamp.com/album/misantropologi
 
-That's all my addled brain can scrape together right now. Honorable mention goes to Pallbearer's Heartless, a fine record, not as good as their last but still solid. I'll be back with the top punk and hardcore records of '17 later on. Until then, stay heavy!
+That’s all my addled brain can scrape together right now. An honorable mention just barely left off this list is Pallbearer’s _Heartless_, which is a solid record, but not as good as _Foundations of Burden_. I’ll be back with the top punk and hardcore records of 2017 later. Until then, stay heavy!

@@ -1,5 +1,5 @@
 :root {
-  --fixed-top-border-width: 70px;
+  --fixed-top-border-width: 66px;
   --fixed-border-width: 35px;
   --burger-right: -110px;
   --fixed-border-color: #111;
@@ -134,7 +134,6 @@ p {
 
 .content {
   font-family: var(--freight-serif);
-  z-index: 1000;
   padding-top: var(--fixed-top-border-width);
   /* padding-bottom: var(--fixed-border-width); */
 }
@@ -188,7 +187,6 @@ p {
 
 .intro {
   position: relative;
-  z-index: 1;
 }
 
 .intro p {
@@ -199,8 +197,8 @@ p {
   width: 100%;
   max-width: 938px;
   margin-top: -156px;
-  z-index: 1;
   position: relative;
+  z-index: 999999;
 }
 
 .single-container p {
@@ -240,7 +238,7 @@ p {
   text-align: center;
   height: 100vh !important;
   width: 100% !important;
-  max-height: calc(100vh - 70px) !important;
+  max-height: calc(100vh - 67px) !important;
   object-fit: cover;
   z-index: -1;
 }
@@ -261,6 +259,8 @@ p {
 
 .single-container {
   padding: 100px 0;
+  z-index: 9999999;
+  position: relative;
 }
 
 /*
@@ -358,7 +358,7 @@ p {
 }
 
 #social-icons {
- padding-left: var(--fixed-border-width);
+ padding-right: var(--fixed-border-width);
 }
 
 /*
@@ -370,7 +370,7 @@ p {
 */
 #social-icons svg {
   max-width: 25px;
-  margin-right: 5px;
+  margin-left: 5px;
 }
 
 a {

@@ -9,7 +9,6 @@ intro: >-
   and was slated to reinvigorate the IP (Destiny) to surpass its almost “beta”
   like first entry.
 ---
-* * *
 
 Destiny 2 has had a rough year. The hype train was real when this came out, and was slated to reinvigorate the IP (Destiny) to surpass its almost “beta” like first entry.
 
